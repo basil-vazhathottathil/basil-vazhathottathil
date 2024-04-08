@@ -14,7 +14,7 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
 
 ## Connect with Me
 - LinkedIn: [Basil Vazhathottathill](www.linkedin.com/in/basil-vazhathottathil-a540a821b)
-- Email: basilvazhathottathil2026@cs.sjcetpalai.ac.in
+- Email: basilveldose@gmail.com
 
 Feel free to explore, fork, and contribute to any of the repositories you find interesting. 
 
