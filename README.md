@@ -13,7 +13,7 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
 - Operating Systems: Windows, Linux
 
 ## Connect with Me
-- LinkedIn: [Basil Vazhathottathil](www.linkedin.com/in/basil-vazhathottathil-a540a821b)
+- LinkedIn: [Basil Vazhathottathil](https://www.linkedin.com/in/basil-vazhathottathil-a540a821b)
 - Email: basilveldose@gmail.com
 
 Feel free to explore, fork, and contribute to any of the repositories you find interesting. 
