@@ -2,15 +2,15 @@
 ## About Me
 I'm a B.Tech Computer Science student passionate about coding and technology. Currently, I'm focusing on honing my skills in coding.
 
-- 🌱 I’m currently learning C programming, Python and Java.
+- 🌱 I’m currently learning C programming, Python, Basic Web Development, Js and dipping into basic Cybersecurity.
 - 🔭 I’m interested in algorithms, data structures, web development and cyber security.
 - 📚 I love to read and stay up-to-date with the latest advancements in the field.
 - 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
 ## Languages and Tools
-- Programming Languages: C, Java
-- Tools: Visual Studio Code
-- Operating Systems: Windows, Linux
+- Programming Languages: C, Java, Python, Javascript
+- Tools: Visual Studio Code, Git, Supabase
+- Operating Systems: Windows, Linux, Kali
 
 ## Connect with Me
 - LinkedIn: [Basil Vazhathottathil](https://www.linkedin.com/in/basil-vazhathottathil-a540a821b)
