@@ -2,7 +2,7 @@
 ## About Me
 I'm a B.Tech Computer Science student passionate about coding and technology. Currently, I'm focusing on honing my skills in coding.
 
-- 🌱 I’m currently learning C programming, Python, Basic Web Development, Js and dipping into basic Cybersecurity.
+- 🌱 I’m currently learning Django, ReactJs , NodeJs and dipping into basic Cybersecurity.
 - 🔭 I’m interested in algorithms, data structures, web development and cyber security.
 - 📚 I love to read and stay up-to-date with the latest advancements in the field.
 - 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
