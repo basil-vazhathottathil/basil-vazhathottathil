@@ -30,7 +30,6 @@ I'm a B.Tech Computer Science student passionate about software development, pro
 Feel free to explore, fork, and contribute to any of the repositories you find interesting 🚀
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basil-vazhathottathil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=basil-vazhathottathil&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" />
 </div>
 
