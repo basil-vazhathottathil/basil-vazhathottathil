@@ -1,56 +1,37 @@
-# 👋 Hey, I'm Basil Vazhathottathil
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Basil+Vazhathottathil)](https://git.io/typing-svg)
 
-🎓 **B.Tech Computer Science Student**  
-💻 Passionate about Software Development, Problem Solving & Hands-on learning  
+## About Me
 
----
+I'm a B.Tech Computer Science student passionate about software development, problem solving, and hands-on learning.
 
-## 🚀 About Me
-
-I’m a Computer Science undergraduate focused on building strong foundations in software engineering and modern web technologies.
-
-- 🌱 Currently learning **FastAPI, React.Js**, and exploring **Cybersecurity fundamentals**
-- 🧠 Interested in  **Backend Development**
+- 🌱 Currently learning **FastAPI, React.js**, and exploring **Cybersecurity fundamentals**
+- 🧠 Interested in **Backend Development**
 - 🔍 Actively improving problem-solving skills through coding practice
 - 📖 Constant learner — I enjoy keeping up with new technologies and industry trends
 - 💬 Open to discussions on development, system design, tech careers, and learning strategies
 
 ---
 
-## 🛠️ Tech Stack
+## Languages and Tools
 
-### 👨‍💻 Programming Languages
-- C  
-- Java  
-- Python  
-- JavaScript  
-
-### ⚙️ Tools & Technologies
-- Git & GitHub  
-- Visual Studio Code  
-- Supabase  
-- AI tools  
-
-### 🖥️ Operating Systems
-- Windows  
-- Linux  
+- **Programming Languages:** C, Java, Python, JavaScript  
+- **Tools & Technologies:** Visual Studio Code, Git, Supabase, AI Tools  
+- **Operating Systems:** Windows, Linux  
 
 ---
 
-## 📊 GitHub Stats
+## Connect with Me
+
+- LinkedIn: [Basil Vazhathottathil](https://www.linkedin.com/in/basil-vazhathottathil-a540a821b)
+- Email: basilveldose@gmail.com  
+
+---
+
+Feel free to explore, fork, and contribute to any of the repositories you find interesting 🚀
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basil-vazhathottathil&layout=compact&theme=midnight-purple&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=basil-vazhathottathil&theme=midnight-purple&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basil-vazhathottathil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=basil-vazhathottathil&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" />
 </div>
 
----
-
-## 🌐 Connect With Me
-
-- 🔗 LinkedIn: [Basil Vazhathottathil](https://www.linkedin.com/in/basil-vazhathottathil-a540a821b)  
-- 📧 Email: basilveldose@gmail.com  
-
----
-
-⭐ Feel free to explore my repositories and connect if you’d like to collaborate or discuss ideas!
+###
